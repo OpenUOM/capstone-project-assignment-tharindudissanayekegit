@@ -11,4 +11,4 @@ function resetDatabase(_db) {
 
 module.exports = {
   resetDatabase
-};
+}; 
